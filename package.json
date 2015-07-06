@@ -1,21 +1,25 @@
 {
-  "name": "normalize-styl",
+  "name": "normalize-styl-lite",
   "version": "3.0.3",
   "description": "Stylus version of normalize.css",
   "main": "normalize.styl",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bymathias/normalize.styl.git"
+    "url": "https://github.com/seleckis/normalize.styl.git"
   },
   "keywords": [
     "normalize",
     "css",
-    "stylus"
+    "stylus",
+    "lite"
   ],
-  "author": ["Nicolas Gallagher", "Mathias Brouilly"],
+  "author": "Nikita Seleckis <nikita@seleckis.lv> (http://seleckis.lv/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bymathias/normalize.styl/issues"
+    "url": "https://github.com/seleckis/normalize.styl/issues"
   },
-  "homepage": "https://github.com/bymathias/normalize.styl"
+  "homepage": "https://github.com/seleckis/normalize.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
