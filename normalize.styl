@@ -1,4 +1,4 @@
-/*! normalize.styl.lite v0.0.3 | MIT License | github.com/seleckis/normalize.styl.lite */
+/*! normalize.styl.lite v0.0.4 | MIT License | github.com/seleckis/normalize.styl.lite */
 /*! derivative of normalize.css v3.0.3 by github.com/necolas/normalize.css */
 
 /**
@@ -371,3 +371,8 @@ table
 td,
 th
 	padding: 0
+
+/* Emulate wbr to work in all browsers */
+
+wbr::after
+	content "\00200B"
