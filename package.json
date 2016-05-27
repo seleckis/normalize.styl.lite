@@ -1,6 +1,6 @@
 {
   "name": "normalize-styl-lite",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Stylus version of normalize.css",
   "main": "normalize.styl",
   "repository": {
@@ -13,6 +13,9 @@
     "stylus",
     "lite"
   ],
+  "dependencies": {
+    "stylus": "0.49.x"
+  },
   "author": "Nikita Seleckis <nikita@seleckis.lv> (http://seleckis.lv/)",
   "license": "MIT",
   "bugs": {
