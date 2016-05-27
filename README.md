@@ -1,5 +1,5 @@
 # [Stylus](http://learnboost.github.io/stylus/ "Stylus") version of [Normalize.css](http://necolas.github.io/normalize.css/ "Normalize")
-[![GitHub version](https://badge.fury.io/gh/seleckis%2Fnormalize.styl.lite.png)](http://badge.fury.io/gh/seleckis%2Fnormalize.styl.lite)
+[![npm version](https://badge.fury.io/js/normalize-styl-lite.svg)](https://badge.fury.io/js/normalize-styl-lite)
 
 ## Get started
 
